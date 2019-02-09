@@ -1,2 +1,7 @@
 # hello-world
-another  reposition
+#include<stdio.h>
+int main()
+{
+   printf("hello world");
+   return 0;
+}
